@@ -1,5 +1,9 @@
 # Plankton Classifier with Metadata Integration
 
+## Contributors
+Ashley Nguyen, Christopher Kverne, Emily Hong, Ethan Feldman, Lorraine Yang
+
+
 ## Overview
 This project develops a machine learning pipeline to classify plankton species from imaging data. Unlike traditional image-only models, this classifier leverages **environmental metadata** (e.g., water temperature, salinity, wind speed, etc.) to improve accuracy. Metadata is incorporated through a **Feature-wise Linear Modulation (FiLM) conditioning layer**, which conditions image features based on contextual environmental variables.  
 
